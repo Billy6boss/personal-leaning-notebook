@@ -1,6 +1,7 @@
 # 《7 個我從資深工程師身上偷來的程式設計模式》繁體中文總結與評論
 
 > 原文：7 Coding Patterns I Stole From Senior Engineers
+> Credit: [CodeByUmar](https://medium.com/skillstuff/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6)
 
 ---
 
