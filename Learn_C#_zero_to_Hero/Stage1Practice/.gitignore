@@ -1,0 +1,5 @@
+## Standard .NET build artifacts — keep the practice repo clean of binaries.
+bin/
+obj/
+TestResults/
+*.user
